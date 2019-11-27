@@ -1,0 +1,49 @@
+body{
+    font-family:georgia, times, serif;
+    color: #3333;
+    font-size: 1.2rem;
+    line-height: 1.6em;
+    margin: 0;
+    background: #ffffff;
+}
+.codigo{
+  margin:30px;
+}
+.codigo p{
+  color: #000;
+}
+.huella{
+  text-align: center;
+}
+
+  /*--------------login--------------*/
+  
+/* Input Forms*/
+.formu input{
+  outline: none;
+  padding: 20px;
+  display: block;
+  width: 300px;
+  border-radius: 3px;
+  border: 1px solid #eee;
+  margin: 20px auto;
+}
+
+input[type="submit"] {
+  padding: 10px;
+  color: #fff;
+  background: #0098cb;
+  width: 320px;
+  margin: 20px auto;
+  margin-top: 0;
+  border: 0;
+  border-radius: 3px;
+  cursor: pointer;
+}
+input[type="submit"]:hover {
+  background-color: #00b8eb;
+}
+.formu{
+  text-align: center;
+  margin: 20px auto;
+}
